@@ -1,7 +1,11 @@
 package main
 
-import "example/hello/test"
+import (
+	"fmt"
+
+	"rsc.io/quote"
+)
 
 func main() {
-	test.Hello()
+	fmt.Println(quote.Go())
 }
