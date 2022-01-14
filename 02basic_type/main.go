@@ -1,7 +1,7 @@
 package main
 
-import "types/demo01"
+import "02basic_type/types"
 
 func main() {
-	demo01.Zimianzhi();
+	types.Zimianzhi()
 }
