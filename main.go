@@ -13,4 +13,7 @@ func main() {
 	// Example2: ch2_declaration
 	fmt.Println("---------------------Example2: ch2_declaration--------------------------")
 	ch2declarations.Declaration()
+	// Example3: ch2_declaretion_variables 
+	fmt.Println("---------------------Example3: ch2_declaration--------------------------")
+	ch2declarations.DeclareVariables()
 }
